@@ -1,4 +1,4 @@
 ## Hava Durumu Uygulaması:
-![Scheme](picutre.png)
+![Scheme](picture.png)
 
 ### Hava durumu uygulaması open.weather API kullanarak veriyi JSON formatında alan ve ekrana yansıtan web uygulamasıdır.
